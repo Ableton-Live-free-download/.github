@@ -16,12 +16,12 @@
 
 ## 🎯 What You Unlock
 
-    🎛️ Full DAW workflow access  
-    🎚️ Unlimited track editing & automation  
-    🎵 All instruments and effects included  
-    🧩 Support for VST/AU plugins  
-    🪄 Sound packs and instruments unlocked  
-    🚫 No login or internet connection required
+🎛️ Full DAW workflow access  
+🎚️ Unlimited track editing & automation  
+🎵 All instruments and effects included  
+🧩 Support for VST/AU plugins  
+🪄 Sound packs and instruments unlocked  
+🚫 No login or internet connection required
 
 ---
 
